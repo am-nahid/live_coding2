@@ -1,0 +1,89 @@
+body{
+    background-color: rgb(230, 221, 211);
+}
+
+.parent{
+    width: 520px;
+    height: 540px;
+    margin: auto;
+    margin-top: 90px;
+    border: 2px solid white;
+    border-radius: 26px;
+    background-color: white;
+    box-shadow: 2px 2px 10px;
+}
+
+.container{
+text-align: center;
+margin: auto;
+}
+
+.box{
+    border: 2px solid black;
+    width: 275px;
+    border-radius: 30px;
+    margin: auto;
+    height: 46px;
+    box-shadow: 3px 3px 6px black;
+}
+
+.box2{
+    margin-top: 35px;
+}
+
+.or{
+    margin-top: 39px;
+}
+
+.box3{
+    border: 2px solid;
+    width: 320px;
+    margin: auto;
+    height: 40px;
+    border-radius: 2px;
+    text-align: start;
+    opacity: 0.4;
+    margin-top: 10px;
+}
+
+.phone{
+    padding: 10px;
+}
+
+.next{
+    border: 2px solid;
+    width: 320px;
+    margin: auto;
+    height: 40px;
+    color: white;
+    background-color: black;
+    border-radius: 21px;
+    margin-top: 20px;
+}
+
+.ele1{
+    padding: 10px;
+}
+
+.password{
+    border: 2px solid;
+    width: 320px;
+    margin: auto;
+    height: 40px;
+    border-radius: 21px;
+    margin-top: 20px;
+}
+
+.dont{
+    margin-top: 5px;
+}
+
+.sign{
+    color: blue;
+    text-decoration: underline;
+    font-size: x-large;
+}
+
+.pic1{
+    margin-top: 6px;
+}
